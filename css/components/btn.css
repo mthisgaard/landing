@@ -1,0 +1,11 @@
+.btn-puns {
+  display: inline-block;
+  background-color: #6daa67;
+  padding: 16px 36px;
+  border-radius: 5px;
+  color: white;
+}
+
+.btn-puns:hover {
+  background-color: #7fc679;
+}

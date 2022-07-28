@@ -1,0 +1,29 @@
+.footer {
+  width: 100%;
+  flex: 1 0 auto;
+  background-color: white;
+  margin-top: 100px;
+}
+
+.footer .links {
+  list-style: none;
+  padding: 0;
+}
+
+.footer .links li {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.footer .links a {
+  font-size: 30px;
+  color: rgb(4, 81, 81);
+}
+
+.footer .links a:hover {
+  color: rgb(29, 161, 161);
+}
+
+.footer p {
+  opacity: 0.6;
+}
